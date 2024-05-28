@@ -153,6 +153,6 @@ If you are interested in specific avatar creation topics, use the following tabl
 
 ## Classic Clothing
 
-Classic clothing assets are 2D images that you can apply to the surface of an avatar body as t-shirts, shirts, or pants. You can design these assets in any image processing software, test the textures in Studio, and then upload the designs to the Marketplace to sell. See [Classic Clothing](../../art/accessories/classic-clothing.md) for more information on creating, uploading, and selling these assets.
+Classic clothing assets are 3D images that you can apply to the surface of an avatar body as t-shirts, shirts, or pants. You can design these assets in any image processing software, test the textures in Studio, and then upload the designs to the Marketplace to sell. See [Classic Clothing](../../art/accessories/classic-clothing.md) for more information on creating, uploading, and selling these assets.
 
 <img src="../../assets/accessories/classic-clothing/Dummy-Clothed.jpg" width="80%" />
